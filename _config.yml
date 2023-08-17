@@ -1,6 +1,6 @@
 title: "Meta Engineering"
 author: "Logan Wright and Tatsuhiro Onodera"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "A blog about photonics and computation."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
