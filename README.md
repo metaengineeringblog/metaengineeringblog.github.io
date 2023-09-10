@@ -1,5 +1,3 @@
-Just adding something.
-Attempt push agian
 ---
 title: "About"
 permalink: "/about/"
