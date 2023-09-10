@@ -1,6 +1,6 @@
-title: "Meta Engineering"
+title: "Metaengineering"
 author: "Logan Wright and Tatsuhiro Onodera"
-description: "A blog about photonics and computation."
+description: "A blog about combining computers and computationally complex physical systems"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,12 +20,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About", file: "about.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  # - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  # - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
+#  disqus_shortname: "hello"    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
