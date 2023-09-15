@@ -4,6 +4,9 @@ layout: default
 
 <article>
   {% include meta.html post=page %}
+  {% if page.author %}
+  <p>By: {{ page.author }}</p>
+  {% endif %}
   {{ content }}
   {% if page.comments != false and site.comments.isso or site.comments.disqus %}
     <hr>

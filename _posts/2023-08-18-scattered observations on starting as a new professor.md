@@ -8,7 +8,6 @@ categories: media
 
 ## Disclaimers: 
 - I can see this post being useful to someone who is contemplating becoming a professor, and who is relatively familiar with academic research (e.g., a PhD student or post-doc). On the other hand, I'd take any advice here - whether direct or implicit - with a grain of salt. I wrote this self-indulgent post because, whether or not any of the advice is particularly useful, I think it will at least capture the sort of adjustments and mental conflicts that go along with the post-doc-to-professor transition, NOT because I think I have necessarily identified the right path (for myself, nevermind anyone else). 
-    - (As a secondary disclaimer here, any actually good advice found here could likely be attributed to 
 - The style of this post is designed to be easy to write, and - I hope - easy to read. Writing whose main purpose is to fulfill the needs of the writer is a classic error, a ubiquitous curse throughout academic writing. I am hoping this structure avoids that, however self-indulgent the content might be. 
  
 ## Onto the actual observations!
